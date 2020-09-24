@@ -29,3 +29,8 @@ cookies som ikke er en god løsning)
 som jeg er nysgjerrig på hvordan fungerer. Hvis dette lar en somehow tagge queues med 
 users kunne dette vært beleilig for fremtidig bruk.
 
+## Resurser
+
+- [ActiveMQ Artemis Dokumentasjon](https://activemq.apache.org/components/artemis/documentation/)
+- [Vromero/activemq-artemis docker image usage](https://github.com/vromero/activemq-artemis-docker/blob/master/README.md)
+- [Docker Compose Dokumentasjon](https://docs.docker.com/compose/) 
