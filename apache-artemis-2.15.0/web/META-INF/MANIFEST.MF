@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: ActiveMQ Artemis Web
+Implementation-Version: 2.15.0
+Archiver-Version: Plexus Archiver
+Built-By: dbruscin
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: ActiveMQ Artemis Web
+Implementation-Vendor-Id: org.apache.activemq
+Created-By: Apache Maven 3.5.4
+Build-Jdk: 1.8.0_252
+Specification-Version: 2.15.0
+Implementation-Vendor: The Apache Software Foundation
+
