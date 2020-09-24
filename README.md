@@ -9,3 +9,6 @@ Artemis når det kommer til oppsett av brokere.
 Classic setter opp en AMQ dir hvor man finner alt av oppsett og executables osv, 
 mens for Artemis har man en hoved dir, men oppretter en egen lokasjon for brokeren
 med innstillinger osv.
+
+Tar en 180 og sjekker ut docker containers for å sette opp brokerne. 
+Blir litt mye rot å ha hele Artemis liggende i et repo.
