@@ -1,13 +1,17 @@
 version: "3.8"
 services:
   one:
-    build: .
+    image: "vromero/activemq-artemis:2.15.0"
+    env_file:
+      - common.env
     ports:
       - "8161:8161"
       - "61616:61616"
       - "9404:9404"
   two:
-    build: .
+    image: "vromero/activemq-artemis:2.15.0"
+    env_file:
+      - common.env
     ports:
       - "8171:8161"
       - "61716:61616"
